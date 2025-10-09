@@ -133,4 +133,6 @@ Discover more of my data analysis projects on GitHub, and connect with me on Lin
 - **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/amansharma01prime/)
 - **GitHub**: [Explore my projects and code](https://github.com/AmanSharma01Prime)
 
-Thank you for your support, and I look forward to connecting with you!
+If you found this project insightful, consider ⭐ starring the repo - it helps others discover it too.
+
+Thank you for visiting!
